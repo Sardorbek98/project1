@@ -1,0 +1,17 @@
+body {
+  background-color: #fafafa;
+  font-family: "Open Sans";
+  font-size: 14px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+* {
+  box-sizing: border-box;
+}
